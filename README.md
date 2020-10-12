@@ -12,7 +12,7 @@
 
 ## Sample Codes
 ### 第1章 離散化の考え方
-- [chapter1-1-ball.ipynb](chapter1-ball.ipynb) : 離散化を知る(ボールの運動問題)
+- [chapter1-1-ball.ipynb](chapter1-1-ball.ipynb) : 離散化を知る(ボールの運動問題)
   - リスト1.1, 1.2, 1.3
 
 ### 第2章 スカラー移流方程式 (数値計算法の基礎)
