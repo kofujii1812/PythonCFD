@@ -3,12 +3,12 @@
 このリポジトリでは「Pythonで学ぶ流体数値シミュレーション」のサンプルコードを公開しています。
 
 ## Book Info
-- Title: [Pythonで学ぶ流体力学の数値計算法](https://www.amazon.co.jp/)
+- Title: [Pythonで学ぶ流体力学の数値計算法](https://www.ohmsha.co.jp/book/9784274224706/)
 - Author: [藤井孝藏](https://ftlab.ms.kagu.tus.ac.jp/member_page/fujii/kenkyu.htm)、[立川智章](https://ftlab.ms.kagu.tus.ac.jp/)
-- Price: 
-- ISBN: 
-- Publisher: オーム社/Ohmsha
-- Language: 日本語/Japanese
+- Price: 4,180円(本体3,800円+税)
+- ISBN: 978-4-274-22470-6
+- Publisher: オーム社 / Ohmsha
+- Language: 日本語 / Japanese
 
 ## Sample Codes
 ### 第1章 離散化の考え方
