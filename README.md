@@ -12,11 +12,11 @@
 
 ## Sample Codes
 ### 第1章 離散化の考え方
-- [chapter1-ball.ipynb](chapter1-ball.ipynb) : ボール投げ上げ問題
+- [chapter1-1-ball.ipynb](chapter1-ball.ipynb) : 離散化を知る(ボールの運動問題)
   - リスト1.1, 1.2, 1.3
 
 ### 第2章 スカラー移流方程式 (数値計算法の基礎)
-- [chapter2-2[2]-FTCS.ipynb](chapter2-2[2]-FTCS.ipynb) : 空間微分項に対する中心差分法の利用
+- [chapter2-2[2]-FTCS.ipynb](chapter2-2[2]-FTCS.ipynb) : 空間微分項に対する中心差分の利用
   - リスト2.1, 2.2, 2.3
 - [chapter2-2[3]-UPWIND.ipynb](chapter2-2[3]-UPWIND.ipynb) : 空間微分項に対する1次精度風上差分の利用
   - リスト2.4, 2.5
@@ -26,7 +26,7 @@
   - リスト2.9, 2.10
 - [chapter2-5-UPWIND2.ipynb](chapter2-5-UPWIND2.ipynb) : 数値流束と高次精度化の考え方
   - リスト2.11
-- [chapter2-6-BurgersEquation.ipynb](chapter2-6-BurgersEquation.ipynb) : 伝達速度が未知量からなる非線形問題
+- [chapter2-6-BurgersEquation.ipynb](chapter2-6-BurgersEquation.ipynb) : 輸送速度が未知量からなる非線形問題
   - リスト2.12, 2.13, 2.14, 2.15, 2.16
 - [chapter2-7-2D-UPWIND.ipynb](chapter2-7-2D-UPWIND.ipynb) : 多次元への拡張
   - リスト2.17
@@ -34,15 +34,15 @@
   - リスト2.18
 
 ### 第3章 スカラー移流方程式における時間積分法
-- [chapter3-2-MacCormack.ipynb](chapter3-2-MacCormack.ipynb) : MacCormack法による陽解法
+- [chapter3-2[6]-MacCormack.ipynb](chapter3-2[6]-MacCormack.ipynb) : MacCormack法
   - リスト3.1
-- [chapter3-4(b)-A-LDU-Decomp.ipynb](chapter3-4(b)-A-LDU-Decomp.ipynb) : 近似LDU分解による陰解法
+- [chapter3-3-A-LDU-Decomp.ipynb](chapter3-3-A-LDU-Decomp.ipynb) : 近似LDU分解による陰解法
   - リスト3.2
 
 ### 第4章 拡散方程式
 - [chapter4-2-DiffusionEquation.ipynb](chapter4-2-DiffusionEquation.ipynb) : 1次元拡散方程式
   - リスト4.1
-- [chapter4-4-PotentialEquation.ipynb](chapter4-4-PotentialEquation.ipynb) : 2次元ポテンシャル方程式
+- [chapter4-4-PotentialEquation.ipynb](chapter4-4-PotentialEquation.ipynb) : 楕円方程式を解く：ポテンシャル方程式を例に
   - リスト4.2
 
 ### 第5章 圧縮性流れの支配方程式とその性質
@@ -61,7 +61,7 @@
 なし
 
 ### 第9章 実際の問題への対応
-- [chapter9-Compact.ipynb](chapter9-Compact.ipynb) : Compact法
+- [chapter9-4-Compact.ipynb](chapter9-4-Compact.ipynb) : 新たな計算法
   - リスト9.1, 9.2, 9.3
 
 ## Additional Samples
