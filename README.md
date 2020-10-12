@@ -1,6 +1,6 @@
 # PythonCFD
 
-このリポジトリでは「Pythonで学ぶ流体数値シミュレーション」のサンプルコードを公開しています。
+このリポジトリでは「Pythonで学ぶ流体力学の数値計算法」のサンプルコードを公開しています。
 
 ## Book Info
 - Title: [Pythonで学ぶ流体力学の数値計算法](https://www.ohmsha.co.jp/book/9784274224706/)
