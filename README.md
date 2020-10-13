@@ -1,13 +1,14 @@
 # PythonCFD
 
-このリポジトリでは「Pythonで学ぶ流体力学の数値計算法」のサンプルコードを公開しています。
+このリポジトリでは「[Pythonで学ぶ流体力学の数値計算法](https://www.ohmsha.co.jp/book/9784274224706/)」(藤井孝藏(著)、立川智章(著)、オーム社、2020/10/20)のサンプルコードを公開しています。
 
 ## Book Info
 - Title: [Pythonで学ぶ流体力学の数値計算法](https://www.ohmsha.co.jp/book/9784274224706/)
-- Author: [藤井孝藏](https://ftlab.ms.kagu.tus.ac.jp/member_page/fujii/kenkyu.htm)、[立川智章](https://ftlab.ms.kagu.tus.ac.jp/)
+- Author: [藤井孝藏](https://ftlab.ms.kagu.tus.ac.jp/member_page/fujii/index.htm)、[立川智章](https://ftlab.ms.kagu.tus.ac.jp/)
 - Price: 4,180円(本体3,800円+税)
 - ISBN: 978-4-274-22470-6
 - Publisher: オーム社 / Ohmsha
+- Date: 2020/10/20
 - Language: 日本語 / Japanese
 
 ## Sample Codes
@@ -36,7 +37,7 @@
 ### 第3章 スカラー移流方程式における時間積分法
 - [chapter3-2[6]-MacCormack.ipynb](chapter3-2[6]-MacCormack.ipynb) : MacCormack法
   - リスト3.1
-- [chapter3-3-A-LDU-Decomp.ipynb](chapter3-3-A-LDU-Decomp.ipynb) : 近似LDU分解による陰解法
+- [chapter3-3[6]-A-LDU-Decomp.ipynb](chapter3-3[6]-A-LDU-Decomp.ipynb) : 近似LDU分解
   - リスト3.2
 
 ### 第4章 拡散方程式
