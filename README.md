@@ -40,9 +40,9 @@
   - リスト3.2
 
 ### 第4章 拡散方程式
-- [chapter4-2-DiffusionEquation.ipynb](chapter4-2-DiffusionEquation.ipynb) : 1次元拡散方程式
+- [chapter4-2-DiffusionEquation.ipynb](chapter4-2-DiffusionEquation.ipynb) : 1次元熱伝導（拡散）方程式
   - リスト4.1
-- [chapter4-4-PotentialEquation.ipynb](chapter4-4-PotentialEquation.ipynb) : 楕円方程式を解く：ポテンシャル方程式を例に
+- [chapter4-4-PotentialEquation.ipynb](chapter4-4-PotentialEquation.ipynb) : 楕円型方程式を解く：ポテンシャル方程式を例に
   - リスト4.2
 
 ### 第5章 圧縮性流れの支配方程式とその性質
