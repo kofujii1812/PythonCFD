@@ -48,7 +48,7 @@
 ### 第5章 圧縮性流れの支配方程式とその性質
 なし
 
-### 第6章 圧縮性流れの数値計算法 その1(システム方程式の数値積分法)
+### 第6章 圧縮性流れの数値計算法 その1(システム方程式の数値計算法)
 - [chapter6-1-ShockTubeProblem-MacCormack.ipynb](chapter6-1-ShockTubeProblem-MacCormack.ipynb) : MacCormack法による衝撃波管問題の数値計算
   - リスト6.1
 - [chapter6-2-ShockTubeProblem-FDS.ipynb](chapter6-2-ShockTubeProblem-FDS.ipynb) : MUSCL型Roeスキームによる衝撃波管問題の数値計算
