@@ -1,6 +1,6 @@
 # PythonCFD
 
-このリポジトリでは「[Pythonで学ぶ流体力学の数値計算法](https://www.ohmsha.co.jp/book/9784274224706/)」(藤井孝藏(著)、立川智章(著)、オーム社、2020/10/20)のサンプルコードを公開しています。
+このリポジトリでは「[Pythonで学ぶ流体力学の数値計算法](https://www.ohmsha.co.jp/book/9784274224706/)」(藤井孝藏(著)、立川智章(著)、オーム社、2020/10/20)のサンプルコードを公開しています。正誤表は[Wiki](https://github.com/kofujii1812/PythonCFD/wiki)を参照してください。
 
 ## Book Info
 - Title: [Pythonで学ぶ流体力学の数値計算法](https://www.ohmsha.co.jp/book/9784274224706/)
