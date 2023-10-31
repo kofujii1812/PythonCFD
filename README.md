@@ -4,7 +4,7 @@
 
 ## Book Info
 - Title: [Pythonで学ぶ流体力学の数値計算法](https://www.ohmsha.co.jp/book/9784274224706/)
-- Author: [藤井孝藏](https://ftlab.ms.kagu.tus.ac.jp/member_page/fujii/index.htm)、[立川智章](https://ftlab.ms.kagu.tus.ac.jp/)
+- Author: [藤井孝藏](https://ftlab.it.tus.ac.jp/member_page/fujii/)、[立川智章](https://ftlab.it.tus.ac.jp/)
 - Price: 4,180円(本体3,800円+税)
 - ISBN: 978-4-274-22470-6
 - Publisher: オーム社 / Ohmsha
